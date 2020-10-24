@@ -1,5 +1,7 @@
-# conversor
+
 ![MOEDAS](https://user-images.githubusercontent.com/48127640/97091665-d2195f80-1613-11eb-92ab-21fd00bf8c16.PNG)
+
+## Conversor de moedas usando VUE.JS
 
 ## Project setup
 ```
