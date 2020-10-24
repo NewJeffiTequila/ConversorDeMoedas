@@ -3,6 +3,11 @@
 
 ## Conversor de moedas usando VUE.JS
 
+### Social
+* [Whatsapp]()
+* [LinkedIn](https://www.linkedin.com/in/jefferson-costa-968310166/)
+* [Instagram](https://www.instagram.com/jeffitequila/)
+
 ## Project setup
 ```
 yarn install
